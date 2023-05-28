@@ -8,7 +8,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, I'm Udhayakumar(zoro)</h2>
+        <h2> Hi, I'm Udhayakumar</h2>
         <div className="prompt">
           <p>Frontend developer with a passion for learning and creating new things.</p>
           <a href="https://www.linkedin.com/in/udhayakumar-velou-758723172" target="_blank" >< LinkedInIcon className="home-link"></LinkedInIcon></a>
